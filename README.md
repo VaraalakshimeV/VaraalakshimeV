@@ -104,27 +104,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌟 What I'm Currently Working On
-
-- 🔬 Advanced analytics and deep learning applications
-- 📊 End-to-end ML pipeline development
-- 🎯 Predictive modeling for real-world business problems
-- 🧠 EEG signal analysis and classification projects
-
----
-
 ## 💡 Areas of Expertise
 
 ```python
